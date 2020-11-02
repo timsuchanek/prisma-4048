@@ -16,6 +16,7 @@
   },
   "scripts": {
     "start": "ts-node main.ts",
-    "generate": "prisma generate"
+    "generate": "prisma generate",
+    "test": "jest"
   }
 }
